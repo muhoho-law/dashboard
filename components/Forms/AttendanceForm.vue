@@ -1,7 +1,4 @@
 <script setup>
-import { useAttendance } from "@/composables/useAttendance";
-
-
 const {
   updateAttendance,
   createAttendance,
